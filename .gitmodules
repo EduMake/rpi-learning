@@ -1,0 +1,3 @@
+[submodule "mcpipy"]
+	path = mcpipy
+	url = https://github.com/EduMake/mcpipy.git
